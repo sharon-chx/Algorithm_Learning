@@ -2,7 +2,12 @@
 
 Collection of implementation of Algorithms in Stanfords' Algorithm Specialization Courses
 
-Note: 
-1. IntegerArray.txt is used in Merge Sort Algorithm & Count Inversions
-2. QuickSort.txt is used in Quick Sort Algorithm
-3. kargerMinCut.txt is used in Randomized Contraction Algorithm
+**1. Divide and Conquer, Sorting and Searching, and Randomized Algorithms**
+1. Karatsuba Multiplication algorithm
+2. Merge Sort algorithm & Count Inversions (IntegerArray.txt is used in )
+3. Quick Sort algorithm (QuickSort.txt is used)
+4. Randomized Contraction algorithm (kargerMinCut.txt is used)
+
+
+**2. Graph Search, Shortest Paths, and Data Structures**
+1. Kosaraju’s Two Pass algorithm w Depth First Search algorithm and stack (SCC.txt and test.txt are used)
