@@ -13,3 +13,4 @@ Collection of implementation of Algorithms in Stanfords' Algorithm Specializatio
 1. Kosaraju’s Two Pass algorithm w Depth First Search algorithm and stack (SCC.txt and test.txt are used)
 2. Dijkstra algorithm with heap (dijkstraData.txt is used)
 3. Median Maintenance algorithm with heap (median.txt is used)
+4. 2-sum algorithm with Hash Tables (2Sum.txt is used)
