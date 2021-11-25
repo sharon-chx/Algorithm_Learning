@@ -4,7 +4,7 @@ Collection of implementation of Algorithms in Stanfords' Algorithm Specializatio
 
 **1. Divide and Conquer, Sorting and Searching, and Randomized Algorithms**
 1. Karatsuba Multiplication algorithm
-2. Merge Sort algorithm & Count Inversions (IntegerArray.txt is used in )
+2. Merge Sort algorithm & Count Inversions (IntegerArray.txt is used)
 3. Quick Sort algorithm (QuickSort.txt is used)
 4. Randomized Contraction algorithm (kargerMinCut.txt is used)
 
