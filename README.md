@@ -1,6 +1,6 @@
 # Algorithm_Learning
 
-Collection of implementation of Algorithms in Stanfords' Algorithm Specialization Courses
+Collection of implementation of Algorithms in Stanford's Algorithm Specialization Courses
 
 **1. Divide and Conquer, Sorting and Searching, and Randomized Algorithms**
 1. Karatsuba Multiplication algorithm
