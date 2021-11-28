@@ -14,3 +14,7 @@ Collection of implementation of Algorithms in Stanford's Algorithm Specializatio
 2. Dijkstra algorithm with heap (dijkstraData.txt is used)
 3. Median Maintenance algorithm with heap (median.txt is used)
 4. 2-sum algorithm with Hash Tables (2sum.txt is used)
+
+
+**3. Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming**
+1. Prim's MST (Minimum Spanning Trees) algorithm (edges.txt and jobs.txt are used)
