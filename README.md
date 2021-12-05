@@ -18,3 +18,4 @@ Collection of implementation of Algorithms in Stanford's Algorithm Specializatio
 
 **3. Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming**
 1. Prim's MST (Minimum Spanning Trees) algorithm (edges.txt and jobs.txt are used)
+2. Kruskal's MST Algorithm ( clustering_big.txt and clustering1.txt are used)
