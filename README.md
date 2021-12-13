@@ -19,5 +19,6 @@ Collection of implementation of Algorithms in Stanford's Algorithm Specializatio
 **3. Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming**
 1. Prim's MST (Minimum Spanning Trees) algorithm (edges.txt and jobs.txt are used)
 2. Kruskal's MST Algorithm (clustering_big.txt and clustering1.txt are used)
-3. Huffman's Codes Algorithm with heap and  (huffman.txt and mwis.txt are used)
-      Huffman's Codes Algorithm: binary prefix-free encoding tree for a given set of characters based on their frequencies/weight.
+3. Huffman's Codes Algorithm with heap and WIS in path graph Algorithm  (huffman.txt and mwis.txt are used) \n
+      Huffman's Codes Algorithm using heap: binary prefix-free encoding tree for a given set of characters based on their frequencies/weight. \n
+      WIS in path graph Algorithm using dynamic programming: to get subset of nonadjacent vertices - an independent set - that gets maximum total weight. \n
