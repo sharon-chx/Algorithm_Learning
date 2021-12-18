@@ -22,3 +22,5 @@ Collection of implementation of Algorithms in Stanford's Algorithm Specializatio
 3. Huffman's Codes Algorithm with heap and WIS in path graph Algorithm  (huffman.txt and mwis.txt are used) <br />
       - Huffman's Codes Algorithm using heap: binary prefix-free encoding tree for a given set of characters based on their frequencies/weight. <br />
       - WIS in path graph Algorithm using dynamic programming: to get subset of nonadjacent vertices - an independent set - that gets maximum total weight. <br />
+4. Knapsack Algorithm (knapsack_big.txt and knapsack1.txt are used) <br />
+      - Knapsack Algorithm using dynamic programming and cache: to calculate maximum sum value within the capacity <br />
