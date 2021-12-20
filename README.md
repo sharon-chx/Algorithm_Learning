@@ -24,3 +24,8 @@ Collection of implementation of Algorithms in Stanford's Algorithm Specializatio
       - WIS in path graph Algorithm using dynamic programming: to get subset of nonadjacent vertices - an independent set - that gets maximum total weight. <br />
 4. Knapsack Algorithm (knapsack_big.txt and knapsack1.txt are used) <br />
       - Knapsack Algorithm using dynamic programming and cache: to calculate maximum sum value within the capacity <br />
+
+
+**4. Shortest Paths Revisited, NP-Complete Problems and What To Do About Them**
+1. Johnson's Algorithm with Bellman-Ford Algorithm and Dijkstra's algorithm (g1.txt, g2.txt and g3.txt are used) <br />
+      - To compute the length of a shortest u -> v path for all pairs of vertices u, v in graph; or report that the graph contains a negative cycle. <br />
