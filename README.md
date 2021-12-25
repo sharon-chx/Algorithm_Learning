@@ -29,3 +29,5 @@ Collection of implementation of Algorithms in Stanford's Algorithm Specializatio
 **4. Shortest Paths Revisited, NP-Complete Problems and What To Do About Them**
 1. Johnson's Algorithm with Bellman-Ford Algorithm and Dijkstra's algorithm (g1.txt, g2.txt and g3.txt are used) <br />
       - To compute the length of a shortest u -> v path for all pairs of vertices u, v in graph; or report that the graph contains a negative cycle. <br />
+2. Traveling Salesman Problem Algorithm (tsp.txt is used) <br />
+      - To compute the minimum cost of a traveling salesman tour of 25 cities and only visit each city once. Dynamic programming and NP-Complete is used. <br />
