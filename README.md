@@ -31,4 +31,7 @@ Collection of implementation of Algorithms in Stanford's Algorithm Specializatio
       - To compute the length of a shortest u -> v path for all pairs of vertices u, v in graph; or report that the graph contains a negative cycle. <br />
 2. Traveling Salesman Problem Algorithm (tsp.txt is used) <br />
       - To compute the minimum cost of a traveling salesman tour of 25 cities and only visit each city once. Dynamic programming and NP-Complete is used;
-            Challenge of this algorithm is that it needs lots of memory <br />
+            Challenge of this algorithm is that it needs lots of memory. <br />
+3. Heuristic TSP Algorithm (nn.txt is used) <br />
+      - To **APPROXIMATELY** compute the minimum cost of a traveling salesman tour of cities and only visit each city once. Nearest Neighbor Heuristic TSP Algorithm on sorted large set of data (sorted by x-axis). <br />
+      - Challenge of this algorithm is to know how to stop early on searching minimum distance from start city to possible end city. <br />
