@@ -3,11 +3,16 @@
 Collection of implementation of Algorithms in Stanford's Algorithm Specialization Courses
 
 **1. Divide and Conquer, Sorting and Searching, and Randomized Algorithms**
-1. Karatsuba Multiplication algorithm
-2. Merge Sort algorithm & Count Inversions (IntegerArray.txt is used)
-3. Quick Sort algorithm (QuickSort.txt is used)
-4. Randomized Contraction algorithm (kargerMinCut.txt is used)
-
+1. Karatsuba Multiplication algorithm <br />
+      - Recursive algorithm to calculater long int numbers. <br />
+2. Merge Sort algorithm & Count Inversions (IntegerArray.txt is used) <br />
+      - Divide and conquer, recursive algorithms. <br />
+      - Merge Sort is to recursively sort 1st and 2nd half of the input array, then merge two sorted sublists into one. <br />
+      - Count Inversions is to count number of pairs(i,j) of array indices with i<j and A[i] > A[j]. Using Merge Sort  <br />
+3. Quick Sort algorithm (QuickSort.txt is used)  <br />
+      - To sort an array by choosing a pivot and rearrange the array by putting amount less than pivot to the left of pivot, and others to the right <br />
+4. Randomized Contraction algorithm (kargerMinCut.txt is used)  <br />
+      - Compute a cut with fewest number of crossing edges in a Graph. (a mininum cut) <br />
 
 **2. Graph Search, Shortest Paths, and Data Structures**
 1. Kosaraju’s Two Pass algorithm w Depth First Search algorithm and stack (SCC.txt and test.txt are used)
